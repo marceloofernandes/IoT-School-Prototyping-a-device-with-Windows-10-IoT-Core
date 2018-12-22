@@ -13,7 +13,7 @@ This task was performed by following each module instruction. Key screenshots ar
 
 ## 3 Modules:Select a board for prototyping
 
-Total duration: 10min  
+Total duration: 45min  
 
 <br />
 
@@ -21,7 +21,7 @@ Total duration: 10min
 
 ## Module 1: How to use the following hands-on labs?
 
-Duration: 3 minutes     
+Duration: 10 minutes     
 
 Instructions: https://docs.microsoft.com/en-us/windows/iot-core/tutorials/quickstarter/prototypeboards       
 
